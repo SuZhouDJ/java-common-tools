@@ -13,5 +13,6 @@ public class ArrayUtilsTest {
         System.out.println(Arrays.toString(ArrayUtils.sort(new int[]{87,354,2,8,34,1,-42,9})));
         System.out.println(Arrays.toString(ArrayUtils.sort(new int[]{65,-9,1,82,54,-11,-49,5})));
         System.out.println(Arrays.toString(ArrayUtils.sort(new int[]{232,45,-2,32,879,4,-768,-9})));
+        System.out.println(Arrays.toString(ArrayUtils.sort(new int[]{567,-34,-657,34,44,3,46,-93})));
     }
 }
